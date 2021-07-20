@@ -1,11 +1,11 @@
 @charset "UTF-8";
 @font-face {
 	font-family: 'fontelogo' ;
-	src: url("../_fonts/bubblegum-sans-regular.otf")
+	src: url("../fonts/bubblegum-sans-regular.otf")
 }
 @font-face{
 	font-family: fonterodape;
-	src: url("../_fonts/computer-font.ttf")
+	src: url("../fonts/computer-font.ttf")
 }
 	body{
 		font-family: Arial, san-serif;
@@ -43,14 +43,14 @@ header#cabecalho img#icone{
 header#cabecalho {
 	border-bottom:1px #606060 solid;
 	height: 150px;
-    background: url("../_imagens/glass-logo-peq.jpg") no-repeat 0px 80px ;
+    background: url("../imagens/glass-logo-peq.jpg") no-repeat 0px 80px ;
 }
 
 header#cabecalho h1 {
 	font-family:'fontelogo', san-serif	;
 	font-size: 30pt;
 	color: #606060;
-	text-shadow: 1px 1px 1px rgba(0,0,0,.6) ;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0,.6) ;
 	padding: 0px;
 	margin-bottom:0px ;
 	
@@ -59,7 +59,7 @@ header#cabecalho h1 {
 header#cabecalho a {
 		font-family:'fontelogo', san-serif	;
 		text-decoration: none;
-		color: black;
+		color: #606060;
 }
 
 header#cabecalho h2 {
