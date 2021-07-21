@@ -1,6 +1,7 @@
 @charset "UTF-8";
 body {
     font-family: Arial;
+    overflow: hidden; /* Problema em esconder barra de scroll resolvido colocando overflow: hidden; no body do style css do html google-glass */
 }
 p {
     text-align: justify;
@@ -8,9 +9,9 @@ p {
 }
 article h1 {
     font-size: 15pt;
-    color: #ffffff;
+    color: #ffffff; 
     background-color: rgba(0,0,0,.3);
-    padding: 5px; /* interno do objeto */      /* Para classes usa-se o ponto */
+    padding: 5px; /* interno do objeto */      /* Para class usa-se o ponto */
     margin: 0px; /* externo do objeto */       /* Para id usa-se # */
 }
 article h2 {
