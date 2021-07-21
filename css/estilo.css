@@ -36,7 +36,7 @@ div#interface {
 
 header#cabecalho img#icone{
 	position: absolute;
-	left:960px ;
+	left:780px ;
 	top: 70px;
 }
 
@@ -53,6 +53,7 @@ header#cabecalho h1 {
 	text-shadow: 1px 1px 1px rgba(0, 0, 0,.6) ;
 	padding: 0px;
 	margin-bottom:0px ;
+	margin-top: 60px;
 	
 }
 
@@ -111,7 +112,7 @@ nav#menu ul{
 	text-transform:uppercase;
 	position: absolute;
 	top: -10px;
-	left: 500px;
+	left: 300px;
 }
 
 nav#menu li{
