@@ -264,3 +264,18 @@ footer#rodape a {
 	text-decoration: none;
 	
 }
+
+video#filme01 {
+	display: block;
+    position: relative;
+    width: 440px;
+	left: 30px;
+	margin-bottom: 10px;
+}
+
+video#filme02 {
+	display: block;
+    position: relative;
+    width: 350px;
+	margin-top: -15px;
+}
