@@ -1,49 +1,5 @@
 # GoogleGlasssWebSite
- Demonstração de aplicação de Html5, Css3 e Javascript
+ Esse site tem por finalidade demonstrar o aprendizado com a aplicação das ferramentas: Html5, Css3 e Javascript.
+## Interface do index.html
 
- Comandos e funções
-
-<!-- Aula 23 Javascript com objetos 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--->
+<img  src="danibex/GoogleGlasssWebSite/interface/01-index.jpg"><br>
