@@ -3,4 +3,4 @@
  
 ## Interface do index.html
 
-<img width="300" height="600" src="https://github.com/danibex/GoogleGlasssWebSite/blob/main/interface/01-index.jpg"><br>
+<img width="600" height="900" src="https://github.com/danibex/GoogleGlasssWebSite/blob/main/interface/01-index.jpg">
