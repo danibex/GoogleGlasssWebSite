@@ -11,10 +11,10 @@ Para acessar o conteúdo clique aqui -> [https://github.com/danibex/GoogleGlasss
 
 ### Abaixo estão anexadas algumas fotos do projeto completo.
 
-<img width="600" height="900" src="https://github.com/danibex/GoogleGlasssWebSite/blob/main/interface/02-specs.jpg"> 
+<img width="600" height="600" src="https://github.com/danibex/GoogleGlasssWebSite/blob/main/interface/02-specs.jpg"> 
 
-<img width="600" height="900" src="https://github.com/danibex/GoogleGlasssWebSite/blob/main/interface/03-fotos.jpg">
+<img width="600" height="600" src="https://github.com/danibex/GoogleGlasssWebSite/blob/main/interface/03-fotos.jpg">
 
-<img width="600" height="900" src="https://github.com/danibex/GoogleGlasssWebSite/blob/main/interface/04-multimidia.jpg">
+<img width="600" height="600" src="https://github.com/danibex/GoogleGlasssWebSite/blob/main/interface/04-multimidia.jpg">
 
-<img width="600" height="900" src="https://github.com/danibex/GoogleGlasssWebSite/blob/main/interface/05-fale-conosco.jpg">
+<img width="600" height="600" src="https://github.com/danibex/GoogleGlasssWebSite/blob/main/interface/05-fale-conosco.jpg">
