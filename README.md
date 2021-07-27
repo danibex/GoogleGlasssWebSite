@@ -1,7 +1,7 @@
 # GoogleGlasssWebSite
  Esse site tem por finalidade demonstrar o aprendizado com a aplicação das ferramentas: Html5, Css3 e Javascript. Com a criação de um web site, usando como referência um dos projetos da empresa google (GoogleGlass)
-O projeto (hoje: 24/07/2021) encontra-se concluido, para acessar sua interface clique aqui -> [https://danibex.github.io/GoogleGlasssWebSite/](url)
-Para acessar o conteúdo clique aqui -> [https://github.com/danibex/GoogleGlasssWebSite](url) 
+O projeto (hoje: 24/07/2021) encontra-se concluido, para acessar sua interface clique aqui -> https://danibex.github.io/GoogleGlasssWebSite/
+Para acessar o conteúdo clique aqui -> https://github.com/danibex/GoogleGlasssWebSite
 
 ## Interface do index.html
 
